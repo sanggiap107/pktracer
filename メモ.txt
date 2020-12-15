@@ -1,2 +1,6 @@
 học về willcardmac
 các loại route --> hsgp
+
+
+- khac nhau giữa có file README và không có file README trong github
+- lấy sách ra làm bài tập!
