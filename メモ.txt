@@ -14,5 +14,7 @@ các loại route --> hsgp
 	R#clear ip ospf procees
 		yes　』
 
+- bai tap group port
+
 
 		
