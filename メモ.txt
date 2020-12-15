@@ -4,3 +4,15 @@ các loại route --> hsgp
 
 - khac nhau giữa có file README và không có file README trong github
 - lấy sách ra làm bài tập!
+	route ospf 1
+	network 172.16.10.0 0.0.0.255 area 0
+	route-id 1.1.1.1
+	int f0/0
+	ip ospf prioriry 255(lớn nhất, mặc định bằng 1, nếu chỉnh bằng không sẽ là DROther 
+		và sẽ không tham gia bầu chọn DR)
+	ip ospf cost 15( chỉnh tùy ý, cost càng nhỏ sẽ đi theo đường đó)
+	R#clear ip ospf procees
+		yes　』
+
+
+		
